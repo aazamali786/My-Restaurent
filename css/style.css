@@ -121,7 +121,7 @@ html {
 }
 
 #services .box img {
-    height: 160px;
+    height: 10rem;
     margin: auto;
     display: block;
 }
@@ -157,7 +157,7 @@ html {
 }
 
 #clients img {
-    height: 124px;
+    height: 9em;
 }
 
 
